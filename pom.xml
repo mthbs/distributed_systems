@@ -15,6 +15,7 @@
         <module>sheet1_exercise4_threads</module>
         <module>sheet2_exercise5_interfaces</module>
         <module>sheet2_exercise6_in_and_outputstream</module>
+        <module>sheet3_basic_machine_sparepart_application</module>
     </modules>
 
     <properties>
