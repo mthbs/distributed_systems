@@ -14,6 +14,7 @@
         <module>sheet1_exercise3_iterator</module>
         <module>sheet1_exercise4_threads</module>
         <module>sheet2_exercise5_interfaces</module>
+        <module>sheet2_exercise6_in_and_outputstream</module>
     </modules>
 
     <properties>
