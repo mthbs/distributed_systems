@@ -2,18 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>distributed_systems</artifactId>
+        <groupId>de.maxim</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.maxim</groupId>
-    <artifactId>distributed_systems</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>sheet1_exercise1_factorial</module>
-        <module>sheet1_exercise2_inheritance</module>
-        <module>sheet1_exercise3_iterator</module>
-        <module>sheet1_exercise4_threads</module>
-    </modules>
+    <artifactId>sheet1_exercise4_threads</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
